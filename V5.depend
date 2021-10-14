@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1556593733 source:c:\users\user\documents\std\v5\main.cpp
+	"pro.cpp"
+
+1556595651 c:\users\user\documents\std\v5\adt.h
+	<iostream>
+	<cstdlib>
+
+1556596738 c:\users\user\documents\std\v5\pro.cpp
+	"adt.h"
+
+1556593734 source:c:\users\shulhan\documents\project\std\tubes\progress\v5\main.cpp
+	"pro.cpp"
+
+1556596740 c:\users\shulhan\documents\project\std\tubes\progress\v5\pro.cpp
+	"adt.h"
+
+1556595652 c:\users\shulhan\documents\project\std\tubes\progress\v5\adt.h
+	<iostream>
+	<cstdlib>
+
